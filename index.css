@@ -11,3 +11,13 @@
 ul {
   list-style: none;
 }
+.align_user {
+  align:"left";
+  font-style: bold;
+  color:red;
+  text-transform: uppercase;
+}
+
+.repo_style {
+  color:green;
+}
